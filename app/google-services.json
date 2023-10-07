@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "657597908673",
-    "project_id": "demoapplication-c0997",
-    "storage_bucket": "demoapplication-c0997.appspot.com"
+    "project_number": "xxx",
+    "project_id": "xxx",
+    "storage_bucket": "xxx"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:657597908673:android:92d22a148dc9f1342d3640",
+        "mobilesdk_app_id": "xxx",
         "android_client_info": {
-          "package_name": "com.roykumarsuraj.notificationdemo"
+          "package_name": "xxx"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBBEfuIzhKlnDjuNrRZYn6BaaZNuV7iRJo"
+          "current_key": "xxx"
         }
       ],
       "services": {
